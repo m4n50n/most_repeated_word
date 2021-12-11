@@ -2,7 +2,7 @@
 
 ## What to do next?
 
-📄 Running a web-server using the following command in the Gitpod workspace terminal:
+📄 Running a web-server using the following command in the **Gitpod workspace** terminal:
 
 ```sh
 node index.js
