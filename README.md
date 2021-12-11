@@ -2,10 +2,10 @@
 
 ## What to do next?
 
-📄 Running a web-server using the following command to preview the project:
+📄 Running a web-server using the following command in the terminal:
 
 ```sh
-pip3 install flask && python3 server.py
+node index.js
 ```
 
 💻 _Jose Clemente García Rodríguez_ (<https://github.com/m4n50n>)
