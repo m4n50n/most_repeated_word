@@ -1,4 +1,4 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Most repeated word with JavaScript.
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Most repeated word with JavaScript
 
 ## What to do next?
 
