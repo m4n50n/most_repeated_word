@@ -1,5 +1,7 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Most repeated word with JavaScript
 
+✏ *Finding the most frequent word in a paragraph*.
+
 ## What to do next?
 
 📄 Running a web-server using the following command in the **Gitpod workspace** terminal:
